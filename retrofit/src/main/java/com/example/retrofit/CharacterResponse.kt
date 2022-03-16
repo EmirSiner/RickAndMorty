@@ -1,4 +1,4 @@
-package Network
+package com.example.network
 
 data class CharacterResponse(
     val results:List<CharacterResult>
